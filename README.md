@@ -6,7 +6,7 @@ demotemplate
 **Summary:** _A short summary using 155 characters_   
 **Prerequisites:** _If few, like maven, docker etc otherwiser refer to System requirements section below_   
 **Target Product:** _Targets product(s)_    
-**Product Version:** _Version of the products that the demo are verified agains_   
+**Product Version:** _Version of the products that the demo are verified agains_ **It's recommended tag version with product versions!**     
 **Slides:** _Link to slide, for example:_ <http://jbossevangelist.slides.com/tqvarnst/demo-template#/>   
 **Video:** _Link to video, for example:_ <http://youtu.be/RcSy78BbDp8>   
 
