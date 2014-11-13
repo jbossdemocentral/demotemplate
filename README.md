@@ -7,6 +7,8 @@ Summary: `<A short summary using 155 characters>`
 Prerequisites: `<If few, like maven, docker etc otherwiser refer to System requirements section below>`  
 Target Product: `<Targets product(s)>`  
 Product Versions: `<Version of the products that the demo are verified agains>` 
+Slides: http://jbossevangelist.slides.com/tqvarnst/demo-template#/
+Video: http://youtu.be/RcSy78BbDp8
 
 What is it?
 -----------
