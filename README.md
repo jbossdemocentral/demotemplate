@@ -3,7 +3,7 @@ demotemplate
 **Author:** Thomas Qvarnström, tqvarnst@redhat.com  
 **Level:** _Beginner,Intermediate,Advanced_  
 **Technologies:** _Add technologies like BPM, Java EE, Integration, iPaaS etc_   
-**Summary:** _A short summary using 155 characters_
+**Summary:** _A short summary using 155 characters_   
 **Prerequisites:** _If few, like maven, docker etc otherwiser refer to System requirements section below_   
 **Target Product:** _Targets product(s)_    
 **Product Version:** _Version of the products that the demo are verified agains_   
