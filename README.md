@@ -1,14 +1,14 @@
 demotemplate
 ============
 Author: Thomas Qvarnström, tqvarnst@redhat.com  
-Level: Beginner  
-Technologies: `<Add technologies like BPM, Java EE, Integration, iPaaS etc>`   
-Summary: `<A short summary using 155 characters>`   
-Prerequisites: `<If few, like maven, docker etc otherwiser refer to System requirements section below>`  
-Target Product: `<Targets product(s)>`  
-Product Versions: `<Version of the products that the demo are verified agains>` 
-Slides: http://jbossevangelist.slides.com/tqvarnst/demo-template#/
-Video: http://youtu.be/RcSy78BbDp8
+Level: _Beginner,Intermediate,Advanced_  
+Technologies: _Add technologies like BPM, Java EE, Integration, iPaaS etc_
+Summary: _A short summary using 155 characters_
+Prerequisites: _If few, like maven, docker etc otherwiser refer to System requirements section below_
+Target Product: _Targets product(s)_  
+Product Versions: _Version of the products that the demo are verified agains_ 
+Slides: _Link to slide, for example:_ <http://jbossevangelist.slides.com/tqvarnst/demo-template#/>
+Video: _Link(s) to video(s), for example:_ <http://youtu.be/RcSy78BbDp8>
 
 What is it?
 -----------
